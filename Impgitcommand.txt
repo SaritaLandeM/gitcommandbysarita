@@ -1,0 +1,16 @@
+1.git config --global user.name//for config 
+2.git config user.name //for checking current username
+3.git config --global user.email//for config email
+4.git config user.email //for checking current email
+5.git remote add origin https://url from gitserver
+6.git status //list of untrack file
+7.git add . //.is for to add all untrack files in staging area or can write specific filname with extention
+8.git commit -m "any comment"
+9.git push -u origin master
+
+
+
+
+
+
+
